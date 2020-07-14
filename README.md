@@ -1,6 +1,6 @@
 # Note:
 - Please follow a new REPO instead: https://github.com/vietnlp/vlsp2019_hatespeech_task. 
-For new updates, we only push to the above REPO.
+For new updates, we only push to the new REPO.
 
 
 # How to cite this challenge?

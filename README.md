@@ -1,3 +1,10 @@
+# Note:
+
+```
+Please follow a new REPO instead: https://github.com/vietnlp/vlsp2019_hatespeech_task. 
+For new updates, we only push to the above REPO.
+```
+
 # How to reload text data
 # How to cite this challenge?
 
